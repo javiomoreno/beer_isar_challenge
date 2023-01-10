@@ -1,5 +1,5 @@
 # beer_isar_challenge
-<<<<<<< HEAD
+
 Flutter Challenge Beer - Isar DB
 =======
 
